@@ -5,8 +5,11 @@ My camera was an older Canon EOS Digital Rebel XT (Canon EOS 350D), and I ended 
 Generates a timestamped TIFF file when run. Settings for exposure time and number of images are inside `bunchapics.py`
 
 Requires:
+
 `sudo apt-get install gphoto2`
+
 `sudo -H pip install rawpy`
+
 `sudo -H pip install opencv-python`
 
 Usage:
